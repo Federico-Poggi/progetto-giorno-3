@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    padding: 15px 0;
+}
+
+#subtitle{
+    text-align: center;
+    margin: 0%;
+    padding: 10px 0;
+    font-size: 0.8em;
+    color: rgb(14, 104, 104);
+    border-top: 0.5px solid;
+    border-color: yellow;
+    background-color: rgba(245, 255, 103, 0.156);
+    
+}
+
+#subtitle > span{
+    font-style: oblique;
+}
