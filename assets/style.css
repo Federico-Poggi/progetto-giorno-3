@@ -39,6 +39,11 @@ main{
     
 }
 
+video{
+    padding-top: 20px;
+    width: 700px;
+}
+
 #subtitle > span{
     font-style: oblique;
 }
